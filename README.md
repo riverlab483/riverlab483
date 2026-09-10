@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey there, I'm riverlab483 👋
 
-<!--
-**riverlab483/riverlab483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student passionate about algorithms, Linux, and open-source tools. Based in Taipei, Taiwan.
 
-Here are some ideas to get you started:
+#### 🛠️ What I use
+Python, Java, C++, Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 What I'm up to
+- Working on data structures, algorithms, building hobby projects
+- Exploring new frameworks and tools
+- Contributing to open-source projects
+
+📫 Reach me: [@riverlab483](https://github.com/riverlab483) on GitHub
